@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=max_num_vertices
+comment0.target=Graph(int)
+comment1.params=
+comment1.target=void\ addBackEdge()
+comment2.params=item
+comment2.target=void\ addVertex(java.lang.Object)
+comment3.params=start_vertex_key\ end_vertex_key\ edge_weight
+comment3.target=void\ addEdge(java.lang.String,\ java.lang.String,\ double)
+comment4.params=
+comment4.target=java.util.LinkedList\ bfs()
+comment5.params=vertex\ items
+comment5.target=void\ bfs(Vertex,\ java.util.LinkedList)
+comment6.params=
+comment6.target=java.util.LinkedList\ dfs()
+comment7.params=vertex\ items
+comment7.target=void\ dfs(Vertex,\ java.util.LinkedList)
+comment8.params=
+comment8.target=boolean\ backEdgeEmpty()
+comment9.params=
+comment9.target=void\ topoSort()
+numComments=10

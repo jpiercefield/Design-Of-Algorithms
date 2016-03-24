@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=startingVertex\ endingVertex\ weight
+comment0.target=Edge(Vertex,\ Vertex,\ double)
+comment1.params=
+comment1.target=Vertex\ getStartingVertex()
+comment2.params=
+comment2.target=Vertex\ getEndingVertex()
+comment3.params=
+comment3.target=double\ getWeight()
+numComments=4

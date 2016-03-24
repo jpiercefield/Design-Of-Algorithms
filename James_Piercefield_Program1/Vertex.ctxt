@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=item\ index
+comment0.target=Vertex(java.lang.Object,\ int)
+comment1.params=
+comment1.target=java.lang.Object\ getItem()
+comment2.params=val
+comment2.target=void\ setMarked(boolean)
+comment3.params=
+comment3.target=boolean\ isMarked()
+comment4.params=
+comment4.target=java.lang.String\ getKey()
+comment5.params=
+comment5.target=int\ getIndex()
+numComments=6

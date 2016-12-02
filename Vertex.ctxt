@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=itemV
+comment0.target=Vertex(java.lang.Object)
+comment1.params=other
+comment1.target=int\ compareTo(Vertex)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rootN
+comment0.target=ParentTree(Node)
+comment1.params=
+comment1.target=int\ getSize()
+comment2.params=
+comment2.target=Node\ getRoot()
+comment3.params=tree
+comment3.target=boolean\ addTree(ParentTree)
+numComments=4

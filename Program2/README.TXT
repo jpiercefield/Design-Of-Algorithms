@@ -1,10 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: Design Of Algorithms Program 2
 AUTHORS: James Logan Piercefield
+PROJECT: http://users.csc.tntech.edu/~mboshart/2400programs.html
 
 

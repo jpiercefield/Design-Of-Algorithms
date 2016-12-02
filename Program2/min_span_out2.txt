@@ -1,0 +1,15 @@
+PRIM
+(Denver, Dallas, 663)
+(Dallas, Birmingham, 581)
+(Birmingham, Chicago, 578)
+(Chicago, Cleveland, 308)
+(Cleveland, Buffalo, 173)
+(Buffalo, Boston, 400)
+
+KRUSKAL
+(Buffalo, Cleveland, 173)
+(Cleveland, Chicago, 308)
+(Buffalo, Boston, 400)
+(Chicago, Birmingham, 578)
+(Dallas, Birmingham, 581)
+(Denver, Dallas, 663)

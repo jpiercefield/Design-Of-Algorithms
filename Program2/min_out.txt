@@ -1,0 +1,111 @@
+PRIM
+(Houston, Dallas, 225)
+
+(Houston, New_Orleans, 318)
+
+(New_Orleans, Birmingham, 312)
+
+(Birmingham, Memphis, 217)
+
+(Memphis, St._Louis, 240)
+
+(St._Louis, Indianapolis, 231)
+
+(Indianapolis, Louisville, 107)
+
+(Indianapolis, Chicago, 165)
+
+(St._Louis, Kansas_City, 238)
+
+(Kansas_City, Omaha, 166)
+
+(Chicago, Detroit, 238)
+
+(Detroit, Cleveland, 90)
+
+(Cleveland, Pittsburgh, 115)
+
+(Cleveland, Buffalo, 173)
+
+(Pittsburgh, Washington_D.C., 192)
+
+(Washington_D.C., Philadelphia, 123)
+
+(Philadelphia, New_York, 83)
+
+(New_York, Boston, 188)
+
+(Omaha, Minneapolis, 290)
+
+(Omaha, Denver, 488)
+
+(Denver, Salt_Lake_City, 371)
+
+(Salt_Lake_City, Phoenix, 504)
+
+(Phoenix, El_Paso, 346)
+
+(Phoenix, Los_Angeles, 357)
+
+(Los_Angeles, San_Francisco, 347)
+
+(Birmingham, Miami, 665)
+
+(San_Francisco, Seattle, 678)
+
+
+
+KRUSKAL
+(Philadelphia, New_York, 83)
+
+(Detroit, Cleveland, 90)
+
+(Indianapolis, Louisville, 107)
+
+(Pittsburgh, Cleveland, 115)
+
+(Philadelphia, Washington_D.C., 123)
+
+(Indianapolis, Chicago, 165)
+
+(Omaha, Kansas_City, 166)
+
+(Cleveland, Buffalo, 173)
+
+(New_York, Boston, 188)
+
+(Pittsburgh, Washington_D.C., 192)
+
+(Birmingham, Memphis, 217)
+
+(Dallas, Houston, 225)
+
+(St._Louis, Indianapolis, 231)
+
+(St._Louis, Kansas_City, 238)
+
+(Detroit, Chicago, 238)
+
+(St._Louis, Memphis, 240)
+
+(Minneapolis, Omaha, 290)
+
+(New_Orleans, Birmingham, 312)
+
+(New_Orleans, Houston, 318)
+
+(El_Paso, Phoenix, 346)
+
+(San_Francisco, Los_Angeles, 347)
+
+(Los_Angeles, Phoenix, 357)
+
+(Salt_Lake_City, Denver, 371)
+
+(Omaha, Denver, 488)
+
+(Salt_Lake_City, Phoenix, 504)
+
+(Birmingham, Miami, 665)
+
+(San_Francisco, Seattle, 678)
